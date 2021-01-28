@@ -21,18 +21,31 @@ The `code folder` has four .ipynb:
 The basic required dependencies are as follows:
 
 Selenium
+
 sys
+
 nltk
+
 re
+
 string
+
 requests
+
 os
+
 math
+
 random
+
 pandas
+
 numpy
+
 string
+
 matplotlib
+
 seaborn
 
 The version of python that was used: **`Python 3.5`**
