@@ -34,4 +34,5 @@ numpy
 string
 matplotlib
 seaborn
+
 The version of python that was used: **`Python 3.5`**
